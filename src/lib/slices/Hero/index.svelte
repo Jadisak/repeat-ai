@@ -79,7 +79,7 @@
 			>
 		{/if}
 		{#if slice.primary.image}
-			<div class="hero__image glass-container mt-16 w-fit opacity-0">
+			<div class="hero__image glass-container mt-24 w-fit opacity-0">
 				<div
 					class="hero__glow hero__glow--one absolute left-1/3 top-0 -z-10 h-2/3 w-2/3 bg-violet-700/50 opacity-0 mix-blend-screen blur-3xl filter md:blur-[120px]"
 				/>

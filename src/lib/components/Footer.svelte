@@ -17,7 +17,7 @@
 			<span class="sr-only">{settings.data.site_title} home page</span>
 		</a>
 
-		<ul class="flex gap-6">
+		<ul class="flex gap-16">
 			{#each settings.data.navigation as item (item.label)}
 				<li>
 					<PrismicLink field={item.link} class="inline-flex min-h-11 items-center">
